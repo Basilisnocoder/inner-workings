@@ -1,8 +1,8 @@
-# inner-workings
+### inner-workings
 Describe as:
-Concept
 
-A tool to calculate best case scenario outcomes in where an equipment provider may give services to those willing to participate in a project demonstration session while efficiently implementing and maintaining previous projects for past consumers.
+> Concept
+>> A tool to calculate best case scenario outcomes in where an equipment provider may give services to those willing to participate in a project demonstration session while efficiently implementing and maintaining previous projects for past consumers.
 
 This routine manner provides the parameters for this tool.
 
@@ -14,10 +14,10 @@ Current methods
 
 Dropping off flyers in where a client receives an incentive for participating in the service. Client must call the hotline to service provider and make the appointment. The service is where a product demonstration of the clients choice, air or water filtration, takes place in their home. The representative demonstrating the product and service carries all licencing for business as well all documentation for financial services if a purchase is to be made. 
 
-This method relies on a homeowner only to make the call, accept the parameters as well as qualify for incentive. 
+This method relies on a homeowner only to make the call, accept the parameters as well as qualify for incentive. The goal is to gain the opportunity to have a consultant enter the home to perform the product demonstration and facilitate the sale.
 
 Issues
-1. This results in a high rejection rate for turning the calls into appointments because youre removing a whole class of consumer, the renter, due to their contract with the landlord. 
+1. This results in a high rejection rate for turning the calls into appointments because youre removing a whole class of consumer, the renter, due to their contract with the landlord, also relies on the employees who book the call to properly qualify the individual(s) after explaining the parameters which can sometimes reduce legitimacy.
 2. Potentially qualified calls may try to make the appointment when the provider has moved on to the next service area. 
 3. Unqualified calls and cancellations, usually from people not understanding the rules or lying, inheritently waste the time and income of all employees and contractors.
 4. Finding the best route for each individiual advisor relies on the quality of the call. Moving between qualification areas takes time which equates to fuel costs, maintanence and operaton time.
