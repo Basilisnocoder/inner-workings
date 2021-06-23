@@ -31,3 +31,6 @@ Opportunities
 
 5. By product - The potential clients calling in on flyers can now be used for training purposes or overrides whilst the higher qualified calls will be given to those with experience.
 6. By product - Route times for servicers and demonstrators can be reduced
+
+Issue requirements
+Data regarding all aspects of travel, inspection time, costs with respect to client payments less the costs to company. Create an automated system that provides the best case scenario for each individual job to the achieve long term goals of cost savings.
